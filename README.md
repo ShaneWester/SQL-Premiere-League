@@ -13,7 +13,7 @@ The dataset includes one table: `team_season_stats`, with season-level statistic
 - `points`
 - `season` (e.g., '20/21')
 
-Data is loaded via an Excel file that has been cleaned from various files from [https://www.football-data.co.uk/englandm.php](url) 
+Data is loaded via an Excel file that has been cleaned from various files from [https://www.football-data.co.uk/englandm.php](url) (Season 20-25)
 Once the files were cleaned , they were merged into one CSV to import into MySQL. 
 
 ---
