@@ -1,4 +1,4 @@
-# SQL-Premiere-League
+# SQL-Premier-League
 
 This project analyses English Premier League team performance data across five seasons (2020/21 – 2024/25) using SQL. It demonstrates structured querying, comparative metrics, and performance tracking — ideal for business analytics and data storytelling.
 
